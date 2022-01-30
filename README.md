@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shubhampathrikar
+- 👋 Hi, I’m @Shubham
 - 👀 I’m interested in building great products with Java | Springboot
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on any open source project.
