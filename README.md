@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shubham
 - 👀 I’m interested in building great products with Java | Springboot
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning Solidity
 - 💞️ I’m looking to collaborate on any open source project.
 - 📫 How to reach me shubhampathrikar07@gmail.com
 
